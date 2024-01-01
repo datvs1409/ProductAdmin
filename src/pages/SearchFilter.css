@@ -1,0 +1,32 @@
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #ccc;
+}
+
+.search-input {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #444;
+  border-radius: 4px;
+  background-color: #333;
+  color: #ccc;
+  width: 100%;
+}
+
+.filtered-products-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.filtered-products-table th,
+.filtered-products-table td {
+  border: 1px solid #444;
+  padding: 10px;
+  text-align: left;
+  background-color: #333;
+  color: #ccc;
+}
+
+/* Add more styles as needed */

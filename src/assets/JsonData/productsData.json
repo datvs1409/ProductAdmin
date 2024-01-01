@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "category": "Category 1",
+      "storageLocation": "A1"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "category": "Category 2",
+      "storageLocation": "B2"
+    }
+  ]
+}
